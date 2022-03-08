@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Music/static/css/main.b6b554cb.css",
+    "main.js": "/Music/static/js/main.5b0fa208.js",
+    "static/js/787.44b3b8b5.chunk.js": "/Music/static/js/787.44b3b8b5.chunk.js",
+    "static/media/back_pic_jamw_leo.JPG": "/Music/static/media/back_pic_jamw_leo.68bed0fd281d5ab427fc.JPG",
+    "index.html": "/Music/index.html",
+    "main.b6b554cb.css.map": "/Music/static/css/main.b6b554cb.css.map",
+    "main.5b0fa208.js.map": "/Music/static/js/main.5b0fa208.js.map",
+    "787.44b3b8b5.chunk.js.map": "/Music/static/js/787.44b3b8b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6b554cb.css",
+    "static/js/main.5b0fa208.js"
+  ]
+}
