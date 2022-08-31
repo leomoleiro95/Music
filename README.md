@@ -8,6 +8,8 @@ This [project](https://leomoleiro95.github.io/Music/) is a React base Web app wh
 4. Add a unique playlists name and press Submit
 5. Turn up the volume!
 
+Find the code [here](https://github.com/leomoleiro95/spotify_code)
+
 Cheers,
 Leo
 
